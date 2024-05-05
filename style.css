@@ -696,10 +696,11 @@ footer{
         content: "\f00d";
     }
 
-    .menu-btn i{
+    .menu-btn{
         z-index: 2;
         color: white;
         font-size: 30px;
+        display:contents;
     }
 
     .nav-text li {
